@@ -65,7 +65,7 @@ class UserProductListTile extends StatelessWidget{
           arguments: product.id,
         );
       },
-      color: Theme.of(context).primaryColor,
+      color: Theme.of(context).disabledColor,
     );
   }
 }

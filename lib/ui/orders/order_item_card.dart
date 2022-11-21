@@ -39,12 +39,13 @@ class _OrderItemCardState extends State<OrderItemCard> {
         .map(
           (prod) => Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: <Widget >[
+            children: <Widget >[             
               Text(
                 prod.title,
                 style: const TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
+                  color: Colors.red,
                 ),
               ),
               Text(
