@@ -1,0 +1,63 @@
+Book(
+        title: 'Đắc Nhân Tâm',
+        type: 'Văn Học',
+        description: 'Phần 1: Nghệ thuật ứng xử cơ bảnNội dung phần 1 của cuốn sách Đắc Nhân Tâm sẽ chia sẻ những kinh nghiệm, bài học và cả những lưu ý trong việc ứng xử đối với các mối quan hệ như:Không được chỉ trích, oán trách, than phiền.Muốn lấy mật thì đừng phá tổ ong.Chỉ trích một ai đó là việc không khó. Vượt lên trên sự phán xét ấy để cư xử rộng lượng, vị tha mới là điều khiến chúng ta đáng tự hào.Bí mật lớn nhất trong phép ứng xử là phải thành thật khen ngợi và biết ơn người khác.Cần phải biết khen ngợi và cảm ơn những người xung quanh một cách chân thành chính là chiếc đũa thần tạo nên tình thân ái và nguồn động viên tinh thần to lớn.Những người bạn gặp trên đường đời sẽ ảnh hưởng đến cuộc sống của bạn. Dù có tốt hay xấu, họ cũng tặng bạn những kinh nghiệm sống hết sức tuyệt vời. Bởi vậy, đừng bao giờ lên án hay chỉ trích hay than phiền ai cả. Bởi lúc này bạn đã học được cách khoan dung. Đây là một trong những mẫu thiết kế bìa sách hết sức đơn giản, nhưng gây ấn tượng mạnh đến người đọc, tạo sức hút riêng biệt.',
+        price: 6.99,
+        imageUrl: 'https://kenosa.vn/app_images/product/2019/4/26/dac-nhan-tam-ml-175-263.jpg'
+)
+
+Book(
+        title: 'Cà Phê Cùng Tony',
+        type: 'Kỹ Năng Sống',
+        description: 'Phần 1 của cuốn Cà phê cùng Tony ngoài mục đích giới thiệu tác giả thì còn lồng ghép những câu chuyện hài hước về chuyện đời nữa. Hằng hà sa số những thói xấu, thói vụn vặt, tiểu nông bị Tony phơi bày trong phần này. Đó là màn vạch mặt cực mạnh những gã trọc phú lắm tiền thời hiện đại trong Tony và đại gia, là mẩu chuyện ngắn hài hước về nạn con ông cháu cha trong Chairman, người ngồi trên ghế.Tony thậm chí còn lôi cả chuyện ăn thịt chó ra để phân tích trong cuốn sách đầu tay này,.. Rất nhiều, rất nhiều vấn đề bị lôi ra mổ xẻ nhưng theo một cách hài hước và châm biếm nhẹ nhàng. Dù trên danh nghĩa là nói về cuộc đời Tony nhưng người đọc vẫn giật mình đều đều vì chuyện của Tony có thể là chuyện của bất cứ ai, đó có thể là một mô tả ngắn gọn về xã hội đương thời.',
+        price: 4.99,
+        imageUrl: 'https://salt.tikicdn.com/cache/280x280/media/catalog/product/1/6/16251760_1410545275623495_793954523945388293_o-u84-d20170202-t201817-68266.u3059.d20170616.t102554.684110.jpg'
+)
+
+Book(
+        title: 'Trên Đường Băng',
+        type: 'Kỹ Năng Sống',
+        description: 'Thành tích không có ý nghĩa gì. Thành tựu mới là cái đáng trân trọng. Và thành nhân là mục đích tối thượng của con người. Có những con người, 60 tuổi vẫn loay hoay tìm lẽ sống. Có những con người, nhắm mắt xuôi tay khi ước mơ vẫn cứ còn dở dang. Có những con ngời, một ngày sống là một ngày vui. Buổi tối trước khi ngủ, nhìn lại một ngày, họ mỉm cười và giấc ngủ đến với họ thật bình yên. Sáng dậy, khi tung chăn và mở cửa sổ hít gió trời, họ lại tràn đầy năng lượng cho một ngày mới. Sức mạnh chỉ có từ nội lực và tinh thần bên trong. Bạn thử quan sát lúc gà con nó nở. Đầu tiên, con gà con bên trong quả trứng sẽ cựa mình, nó sẽ mổ cái vỏ, rùng mình trút lớp vỏ ấy, và bước ra nhìn đời. Còn nếu ai đó mong muốn giúp nó mà tìm cách bóc tách cái vỏ, thì con gà con ấy sẽ chết. Cuộc đời cũng y chang vậy, không ai làm giùm cho đâu, không ông thầy bà cô nào, trường chuyên lớp chọn cỡ nào đi nữa, hay dù cha mẹ giàu có ra sao,… không ai có thể giúp mình thành đạt được. Ai suốt ngày trên mạng? Chỉ có đám tỷ phú thời gian. Người ta đầu tắt mặt tối học tập, làm ăn,… thời gian đâu mà bình luận chuyện vĩ mô nước này nước kia trên đó? Họ chỉ online 1-2h trong ngày thôi, coi email và các tin tức phục vụ công việc của họ thì cũng đã hết giờ. Đố kỵ chỉ khiến bạn dậm chân tại chỗ, thậm chí tụt lùi, trong khi cuộc sống của những người bạn đố kỵ ngày càng tốt hơn. Người thông minh dành thời gian học hỏi, kẻ vô dụng chỉ biết gièm pha.',
+        price: 5.99,
+        imageUrl: 'https://sachhay24h.com/uploads/images/tren-duong-bang-2.jpg'
+)
+
+Book(
+        title: 'Đi Tìm Lẽ Sống',
+        type: 'Tiểu Sử',
+        description: 'Một ngàn rưỡi người bị giam trong một khu được xây dựng có sức chứa tối đa khoảng hai trăm người. Chúng tôi lạnh và đói. Không đủ chỗ cho mỗi người ngồi trên nền đất trống, nói chi đến ngả lưng. Khẩu phần ăn của chúng tôi trong suốt bốn ngày chỉ là một mẩu bánh mì ít ỏi. rong khi chúng tôi đợi tắm, sự trần truồng đã thức tỉnh chúng tôi: chúng tôi giờ thực sự chẳng còn gì ngoài cơ thể trời sinh này- ngay cả một sợi lông cũng không; tất cả những gì mà chúng tôi sở hữu, theo đúng nghĩa đen, chỉ là cơ thể trần trụi này.',
+        price: 3.99,
+        imageUrl: 'https://salt.tikicdn.com/ts/product/79/35/ff/f7b008237963a4218e5ab9b19f275906.jpg'
+)
+
+Book(
+        title: 'Truyện Tranh Doremon',
+        type: 'Truyện Tranh',
+        description: 'Bộ truyện được xem là huyền thoại của Nhật Bản. Nói về cuộc sống của một chú nhóc tên Nobita, tính tình hậu đậu và chú mèo máy Doremon đến từ thế kỉ 22 cùng những người bạn Xuka, Chaien, Xeko; để từ đó gây ra bao tiếng cười và rút ra những bài học ý nghĩa cho người xem!!',
+        price: 2.99,
+        imageUrl: 'https://cdn.shopify.com/s/files/1/0584/2599/9541/products/e99f4d4eb9003c9ed2138b42b885e663_300x300.jpg'
+)
+
+Book(
+        title: 'Trên Đường Băng',
+        type: 'Kỹ Năng Sống',
+        description: 'Thành tích không có ý nghĩa gì. Thành tựu mới là cái đáng trân trọng. Và thành nhân là mục đích tối thượng của con người. Có những con người, 60 tuổi vẫn loay hoay tìm lẽ sống. Có những con người, nhắm mắt xuôi tay khi ước mơ vẫn cứ còn dở dang. Có những con ngời, một ngày sống là một ngày vui. Buổi tối trước khi ngủ, nhìn lại một ngày, họ mỉm cười và giấc ngủ đến với họ thật bình yên. Sáng dậy, khi tung chăn và mở cửa sổ hít gió trời, họ lại tràn đầy năng lượng cho một ngày mới. Sức mạnh chỉ có từ nội lực và tinh thần bên trong. Bạn thử quan sát lúc gà con nó nở. Đầu tiên, con gà con bên trong quả trứng sẽ cựa mình, nó sẽ mổ cái vỏ, rùng mình trút lớp vỏ ấy, và bước ra nhìn đời. Còn nếu ai đó mong muốn giúp nó mà tìm cách bóc tách cái vỏ, thì con gà con ấy sẽ chết. Cuộc đời cũng y chang vậy, không ai làm giùm cho đâu, không ông thầy bà cô nào, trường chuyên lớp chọn cỡ nào đi nữa, hay dù cha mẹ giàu có ra sao,… không ai có thể giúp mình thành đạt được. Ai suốt ngày trên mạng? Chỉ có đám tỷ phú thời gian. Người ta đầu tắt mặt tối học tập, làm ăn,… thời gian đâu mà bình luận chuyện vĩ mô nước này nước kia trên đó? Họ chỉ online 1-2h trong ngày thôi, coi email và các tin tức phục vụ công việc của họ thì cũng đã hết giờ. Đố kỵ chỉ khiến bạn dậm chân tại chỗ, thậm chí tụt lùi, trong khi cuộc sống của những người bạn đố kỵ ngày càng tốt hơn. Người thông minh dành thời gian học hỏi, kẻ vô dụng chỉ biết gièm pha.',
+        price: 5.99,
+        imageUrl: 'https://sachhay24h.com/uploads/images/tren-duong-bang-2.jpg'
+)
+
+Book(
+        title: 'Trên Đường Băng',
+        type: 'Kỹ Năng Sống',
+        description: 'Thành tích không có ý nghĩa gì. Thành tựu mới là cái đáng trân trọng. Và thành nhân là mục đích tối thượng của con người. Có những con người, 60 tuổi vẫn loay hoay tìm lẽ sống. Có những con người, nhắm mắt xuôi tay khi ước mơ vẫn cứ còn dở dang. Có những con ngời, một ngày sống là một ngày vui. Buổi tối trước khi ngủ, nhìn lại một ngày, họ mỉm cười và giấc ngủ đến với họ thật bình yên. Sáng dậy, khi tung chăn và mở cửa sổ hít gió trời, họ lại tràn đầy năng lượng cho một ngày mới. Sức mạnh chỉ có từ nội lực và tinh thần bên trong. Bạn thử quan sát lúc gà con nó nở. Đầu tiên, con gà con bên trong quả trứng sẽ cựa mình, nó sẽ mổ cái vỏ, rùng mình trút lớp vỏ ấy, và bước ra nhìn đời. Còn nếu ai đó mong muốn giúp nó mà tìm cách bóc tách cái vỏ, thì con gà con ấy sẽ chết. Cuộc đời cũng y chang vậy, không ai làm giùm cho đâu, không ông thầy bà cô nào, trường chuyên lớp chọn cỡ nào đi nữa, hay dù cha mẹ giàu có ra sao,… không ai có thể giúp mình thành đạt được. Ai suốt ngày trên mạng? Chỉ có đám tỷ phú thời gian. Người ta đầu tắt mặt tối học tập, làm ăn,… thời gian đâu mà bình luận chuyện vĩ mô nước này nước kia trên đó? Họ chỉ online 1-2h trong ngày thôi, coi email và các tin tức phục vụ công việc của họ thì cũng đã hết giờ. Đố kỵ chỉ khiến bạn dậm chân tại chỗ, thậm chí tụt lùi, trong khi cuộc sống của những người bạn đố kỵ ngày càng tốt hơn. Người thông minh dành thời gian học hỏi, kẻ vô dụng chỉ biết gièm pha.',
+        price: 5.99,
+        imageUrl: 'https://sachhay24h.com/uploads/images/tren-duong-bang-2.jpg'
+)
+
+Book(
+        title: 'Trên Đường Băng',
+        type: 'Kỹ Năng Sống',
+        description: 'Thành tích không có ý nghĩa gì. Thành tựu mới là cái đáng trân trọng. Và thành nhân là mục đích tối thượng của con người. Có những con người, 60 tuổi vẫn loay hoay tìm lẽ sống. Có những con người, nhắm mắt xuôi tay khi ước mơ vẫn cứ còn dở dang. Có những con ngời, một ngày sống là một ngày vui. Buổi tối trước khi ngủ, nhìn lại một ngày, họ mỉm cười và giấc ngủ đến với họ thật bình yên. Sáng dậy, khi tung chăn và mở cửa sổ hít gió trời, họ lại tràn đầy năng lượng cho một ngày mới. Sức mạnh chỉ có từ nội lực và tinh thần bên trong. Bạn thử quan sát lúc gà con nó nở. Đầu tiên, con gà con bên trong quả trứng sẽ cựa mình, nó sẽ mổ cái vỏ, rùng mình trút lớp vỏ ấy, và bước ra nhìn đời. Còn nếu ai đó mong muốn giúp nó mà tìm cách bóc tách cái vỏ, thì con gà con ấy sẽ chết. Cuộc đời cũng y chang vậy, không ai làm giùm cho đâu, không ông thầy bà cô nào, trường chuyên lớp chọn cỡ nào đi nữa, hay dù cha mẹ giàu có ra sao,… không ai có thể giúp mình thành đạt được. Ai suốt ngày trên mạng? Chỉ có đám tỷ phú thời gian. Người ta đầu tắt mặt tối học tập, làm ăn,… thời gian đâu mà bình luận chuyện vĩ mô nước này nước kia trên đó? Họ chỉ online 1-2h trong ngày thôi, coi email và các tin tức phục vụ công việc của họ thì cũng đã hết giờ. Đố kỵ chỉ khiến bạn dậm chân tại chỗ, thậm chí tụt lùi, trong khi cuộc sống của những người bạn đố kỵ ngày càng tốt hơn. Người thông minh dành thời gian học hỏi, kẻ vô dụng chỉ biết gièm pha.',
+        price: 5.99,
+        imageUrl: 'https://sachhay24h.com/uploads/images/tren-duong-bang-2.jpg'
+)
